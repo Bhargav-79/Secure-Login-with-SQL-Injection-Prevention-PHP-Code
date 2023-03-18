@@ -10,9 +10,9 @@ Then it connects to a database named test (in XAMPP) and table named login. You 
 anything you like as long as the database and tables are present.
 
 # Demo:
-Valid Username: testName
-Valid Password: 12345
 <img width="254" alt="image" src="https://user-images.githubusercontent.com/108524555/226086519-54f0a14a-63f0-40ee-984b-10a6c9683401.png">
+Valid Username: testName 
+Valid Password: 12345
 
 # Before using PHP Function (SQL Injection Attack):
 <img width="241" alt="image" src="https://user-images.githubusercontent.com/108524555/226086566-b2c7e827-f9fa-411a-b087-832ec0a6d776.png">
